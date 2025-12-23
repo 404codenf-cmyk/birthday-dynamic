@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Happy Birthday Andy! 🌸</title>
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600;700&family=Outfit:wght@300;400;600&display=swap"
+    rel="stylesheet">
+
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <!-- Animated Background Petals -->
+  <div class="petal-container">
+    <!-- 15 petals for density -->
+    <div class="petal"></div>
+    <div class="petal"></div>
+    <div class="petal"></div>
+    <div class="petal"></div>
+    <div class="petal"></div>
+    <div class="petal"></div>
+    <div class="petal"></div>
+    <div class="petal"></div>
+    <div class="petal"></div>
+    <div class="petal"></div>
+    <div class="petal"></div>
+    <div class="petal"></div>
+    <div class="petal"></div>
+    <div class="petal"></div>
+    <div class="petal"></div>
+  </div>
+
+  <!-- Main Content -->
+  <div class="main-wrapper">
+
+    <header>
+      <div class="subtitle">It's your special day</div>
+      <h1 class="title">🌸 Happy Birthday Andy 🌸</h1>
+    </header>
+
+    <section class="gallery">
+      <div class="photo-card" tabindex="0">
+        <div class="sticker sticker-tl">💖</div>
+        <div class="photo-frame">
+          <img src="images/andy1.jpg" alt="Andy being graceful">
+        </div>
+        <div class="sticker sticker-br">✨</div>
+        <div class="photo-caption">Blooming 🌸</div>
+      </div>
+
+      <div class="photo-card" tabindex="0">
+        <div class="sticker sticker-tl">🎂</div>
+        <div class="photo-frame">
+          <img src="images/andy2.jpg" alt="Andy smiling">
+        </div>
+        <div class="sticker sticker-br">🇰🇷</div>
+        <div class="photo-caption">Graceful ✨</div>
+      </div>
+    </section>
+
+    <section class="message-card">
+      <div class="message-text">
+        <h2>Hey Andy <span class="float-emoji">✨</span></h2>
+
+        <p>
+          Another year older, another year more graceful <span class="float-emoji">💖</span><br>
+          You prove every day that being strong, kind, and beautiful can exist all together.
+        </p>
+
+        <p>
+          Calories are still watching… but today they’ve properly taken a day off <span
+            class="float-emoji">😉</span><br>
+          Balance, health, glow — you carry it all effortlessly.
+        </p>
+
+        <p>
+          <span class="korean-text">Annyeong Birthday Star</span> <span class="float-emoji">🇰🇷</span><span
+            class="float-emoji">✨</span><br>
+          May your days feel like a soft K-drama scene — calm, cozy, and full of warm smiles.
+        </p>
+
+        <p>
+          And somewhere in the universe… <span class="highlight">Mohit</span> definitely knows he’s lucky <span
+            class="float-emoji">😄</span><span class="float-emoji">💫</span><br>
+          <span style="font-size: 0.9em; opacity: 0.8; font-style: italic;">(Just saying, best wishes travel faster on
+            birthdays!)</span>
+        </p>
+
+        <p>
+          May this year float gently for you — full of laughter, peace, surprises, and endless blooming moments <span
+            class="float-emoji">🌸</span>
+        </p>
+
+        <div class="signature">
+          Always cheering for you,<br>
+          — Your friend <span class="float-emoji">💖</span>
+        </div>
+      </div>
+    </section>
+
+    <footer>
+      <p>Made with 💖 for Anushree</p>
+    </footer>
+
+  </div>
+
+</body>
+
+</html>
